@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="pokashiki/pokashiki.vcxproj" Id="82549c97-c826-43f9-9144-a21a0d3aa309" />
+</Solution>
