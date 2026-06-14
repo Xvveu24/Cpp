@@ -111,7 +111,7 @@ int main()
 
     int hLeft = secondsToMid / 3600;
     int mLeft = (secondsToMid % 3600) / 60;
-    int sLeft = secondsToMidn % 60;
+    int sLeft = secondsToMid % 60; 
 
     cout << "until midnight: " << hLeft << " h " << mLeft << " min " << sLeft << " sec\n";*/
 
